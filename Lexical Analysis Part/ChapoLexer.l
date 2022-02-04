@@ -1,9 +1,9 @@
 /* A sample Flex program that just scans the input lexeme and print the corresponding token (only token name) in the output. As of now nothing is returned to the parser. The necessary return statement is the part of furthur development */
 
-addition z_hai_x_agar_y_saath_ho
-subtraction z_hai_x_agar_y_saath_na_ho
-multiplication z_hai_x_y_baar
-division z_hai_x_y_kum_baar
+addition agar_saath_ho
+subtraction agar_saath_na_ho
+multiplication baar
+division kum_baar
 
 integer chai
 string coffee
