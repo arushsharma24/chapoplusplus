@@ -1,0 +1,12 @@
+<Keyword: start> 
+
+<Keyword: integer> <Identifier: a> ,<Identifier: b> ,<Identifier: c> <Special Symbol: ';'> 
+
+<Identifier: c> <Assignment Operator: '='> <Identifier: a> <Arithmetic Operator: '*'> <Identifier: b> <Special Symbol: ';'> 
+
+<Identifier: ghissout> <Special Symbol: '('> <Identifier: c> <Special Symbol: ')'> <Special Symbol: ';'> 
+
+<Keyword: for> <Special Symbol: '('> <Identifier: a> <Assignment Operator: '='> <Number: 1> <Special Symbol: ';'> <Identifier: a> <Relational Operator: '<'> <Number: 32> <Special Symbol: ';'> <Identifier: a> <Assignment Operator: '='> <Identifier: a> <Arithmetic Operator: '+'> <Number: 2> <Special Symbol: ')'> <Special Symbol: ';'> 
+
+<Keyword: end>
+
