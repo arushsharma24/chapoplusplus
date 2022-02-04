@@ -1,6 +1,6 @@
 century_gate
   chai a, b, c;
-  c = a z_hai_x_y_baar b;
+  c = a baar b;
   ghissout(c);
-  jab_tak_h_jaan(a = 1; a < 32; a = a z_hai_x_agar_y_saath_ho 2);
+  jab_tak_h_jaan(a = 1; a < 32; a = a agar_saath_ho 2);
 convocation_hall
